@@ -1,0 +1,22 @@
+2014/10/21
+Shows a 128x128 pixel square centered in the window.
+Can quit when the "close" button is pressed.
+Updated version number to a001.
+TODO: Try to implement movement, get prototype art.
+
+2014/10/22
+The square can now move via WASD, and updates its sprite accordingly.
+TODO: Get prototype player art, allow diagonal movement.
+
+2014/10/23
+Prototype player art made for the fire character. Diagonal movement is now possible.
+TODO: Spawn in an object where the mouse is pressed, allow "sliding" against walls
+
+2014/10/24
+Background changed, walls now exist within the window.
+TODO: Figure out how to make objects, allow "sliding" against walls, make a level file type or something like that
+
+2014/10/30
+Redesigned and recoded structure for input loop. However, I still haven't made the input loop itself.
+Updated the version number to a002.
+TODO: Implement movement, allow sliding against walls, figure out level save design.
